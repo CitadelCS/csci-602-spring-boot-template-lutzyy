@@ -62,5 +62,4 @@ public class AccountEndpoints {
       return new ResponseEntity<>(null, HttpStatus.NOT_FOUND);
     }
   }
-
 }

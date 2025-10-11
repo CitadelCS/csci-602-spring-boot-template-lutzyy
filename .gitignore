@@ -25,3 +25,9 @@
 /nbdist/
 /.nb-gradle/
 /build/
+
+
+# Ignore local Spring config files
+src/main/resources/application.yaml
+src/main/resources/application-test.yaml
+src/main/resources/application-ghci.yaml
